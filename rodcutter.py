@@ -1,7 +1,4 @@
 #Natasha Needham
-#CS350
-#Homework 6 Problem 8.1.6
-#Winter 2021
 #Python
 
 import time
